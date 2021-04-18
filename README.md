@@ -1,5 +1,5 @@
 # Hi There! :wave:
-![visitors](https://visitor-badge.glitch.me/badge?page_id=AhnafAhamed.AhnafAhamed)
+
 ### Find me on these platforms 👇 
 <br>
 <a href="https://twitter.com/ahnfahmd">
@@ -25,5 +25,5 @@ I am looking forward to get started with open source and be a awesome contributo
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=AhnafAhamed.AhnafAhamed)
 
